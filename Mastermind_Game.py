@@ -1,5 +1,6 @@
 #Game intro + rules
 print "- Welcome to Tetrachrome -"
+print
 print "By: Jeffrey C. Lim"
 print
 print "A game between man and machine."
